@@ -82,54 +82,54 @@
                 <li>Contacte le service client de Nolark par tout moyen de communication mis à sa disposition tel que le courrier électronique, l'utilisation du formulaire de contact...</li>
                 <li>Participe à un jeu promotionnel ou un jeu concours sur le site</li>
             </ul>
-            <p>Le responsable du traitement conservera dans ses systèmes informatiques du site et dans des conditions raisonnables de sécurité l'ensemble des données collectées pour une durée de&nbsp;:&nbsp;3 ans.</p>
-            <p>La collecte et le traitement des données répondent aux finalités suivantes : Réalisation de statistiques de la mesure d'audience et d'études marketing</p>
-            <p><b>B. Hébergement des données</b></p>
-            <p>Tel que mentionné plus haut, le site Nolark est hébergé par&nbsp;:&nbsp;OVH SAS, dont le siège est situé à l'adresse suivante&nbsp;: 2 rue Kellermann - BP 80157, 59100 Roubaix.</p>
-            <p>L'hébergeur peut être contacté au numéro de téléphone suivant&nbsp;:&nbsp;0320200958</p>
-            <p>Les données collectées et traitées par le site sont exclusivement hébergées et traitées en France.</p>
-            <p><b>C. Le responsable du traitement des données</b></p>
-            <p>La responsable du traitement des données à caractère personnel est&nbsp;:&nbsp;Amélia PILOU. Elle peut être contactée par téléphone au 01.02.03.04.05, de 8h à 19h, du lundi au vendredi.</p>
-            <p><b>D. Le délégué à la proctection des données</b></p>
-            <p>La personne suivante a été nommée Déléguée à la Protection des Données&nbsp;:&nbsp;Amélia PILOU.</p>
-            <p>La déléguée à la protection des données peut être joint par téléphone au 06.80.80.80.90, du lundi au vendredi de 9h à 17h ou par mail&nbsp;:&nbsp;dpo@nolark.gil83.fr.</p>
-            <p><b>E. Données personnelles des personnes mineures</b></p>
-            <p>Conformément aux dispositions de l'article 8 du règlement européen 2016/679 et à la loi Informatique et Libertés, seuls les mineurs âgés de 15 ans ou plus peuvent consentir au traitement de leurs données personnelles.</p>
-            <p>Si l'utilisateur est un mineur de moins de 15 ans, l'accord d'un représentant légal sera requis afin que des données à caractère personnel puissent être collectées et traitées.</p>
-            <p><b>F. Droits de l'utilisateur et procédures de mise en oeuvre des droits de l'utilisateur</b></p>
-            <p>Conformément à la réglementation concernant le traitement des données à caractère personnel, l'Utilisateur possède les droits ci-après énumérés.</p>
-            <p>Afin que le responsable du traitement des données fasse droit à sa demande, l'utilisateur est tenu de lui communiquer&nbsp;:&nbsp;ses prénom et nom ainsi que son adresse e-mail, et si cela est pertinent, son numéro de compte ou d'espace personnel ou d'abonné.</p>
-            <p>Le responsable du traitement des données est tenu de répondre à l'Utilisateur dans un délai de 30 (trente) jours maximum.</p>
-            <p>a. Droit d'accès, de rectification et droit à l'oubli</p>
-            <p>L'utilisateur peut prendre connaissance, mettre à jour, modifier ou demander la suppression des données le concernant, en respectant la procédure ci-après énoncée :</p>
-            <p>procédure que l'utilisateur doit respecter pour solliciter la mise à sa disposition, la mise à jour, la modification ou la suppression de ses données personnelles collectées par le site</p>
-            <p>Ex: L'utilisateur doit envoyer un e-mail au responsable du traitement des données personnelles, en précisant sa demande et en utilisant l'adresse e-mail fournie...</p>
-            <p>S'il en possède un, l'utilisateur a le droit de demander la suppression de son espace personnel en suivant la procédure suivante :</p>
-            <p>procédure que l'utilisateur doit suivre pour demander la suppression de son espace personnel</p>
-            <p>Ex: L'utilisateur doit envoyer un e-mail au responsable du traitement des données, en précisant son numéro d'espace personnel. La demande sera traitée dans un délai de 10 jours.</p>
-            <p>b. Droit à la portabilité des données</p>
-            <p>L'Utilisateur a le droit de demander la portabilité de ses données personnelles, détenues par le site, vers un autre site, en se conformant à la procédure ci-après :</p>
-            <p>procédure doit respecter l'utilisateur afin de faire une demande de portabilité de ses données personnelles vers un autre site ou service</p>
-            <p>Ex: L'utilisateur doit faire une demande de portabilité de ses données personnelles auprès du responsable du traitement des données, en envoyant un e-mail à l'adresse prévue ci-dessus.</p>
-            <p>c. Droit à la limitation et à l'opposition du traitement des données</p>
-            <p>Enfin, l'Utilisateur a le droit de demander la limitation ou de s'opposer au traitement de ses données par le site, sans que le site ne puisse refuser, sauf à démontrer l'existence de motifs légitimes et impérieux, pouvant prévaloir sur les intérêts et les droits et libertés de l'Utilisateur.</p>
-            <p>d. Droit de déterminer le sort des données après la mort</p>
-            <p>Il est rappelé à l'utilisateur qu'il peut organiser quel doit être le devenir de ses données collectées et traitées s'il décède, conformément à la loi n°2016-1321 du 7 octobre 2016.</p>
-            <p>e. Droit de saisir l'autorité de contrôle compétente</p>
-            <p>Dans le cas où le responsable du traitement des données décide de ne pas répondre à la demande de l'Utilisateur, et que l'Utilisateur souhaite contester cette décision, il est en droit de saisir la CNIL (Commission Nationale de l'Informatique et des Libertés, https://www.cnil.fr) ou tout juge compétent.</p>
-            <p><b>G. Obligations du responsable du traitement des données</b></p>
-            <p>Le responsable du traitement s'engage à protéger les données à caractère personnel collectées, à ne pas les transmettre à des tiers sans que l'utilisateur n'en ait été informé et à respecter les finalités pour lesquelles ces données ont été collectées.</p>
-            <p>Le site dispose d'un certificat SSL afin de garantir que les informations et le transfert des données transitant par le site sont sécurisés.</p>
-            <p>De plus, le responsable du traitement des données s'engage à notifier l'utilisateur en cas de rectification ou de suppression des données, à moins que cela n'entraîne pour lui des formalités, coûts et démarches disproportionnés.</p>
-            <p>Dans le cas où l'intégrité, la confidentialité ou la sécurité des données à caractère personnel de l'Utilisateur est compromise, le responsable du traitement s'engage à informer l'Utilisateur par tout moyen.</p>
-            <p><b>H. Cookies</b></p>
-            <p>Le site a éventuellement recours aux techniques de "cookies" lui permettant de traiter des statistiques et des informations sur le trafic, de faciliter la navigation et d'améliorer le service pour le confort de l'utilisateur. Pour l'utilisation de fichiers "cookies" impliquant la sauvegarde et l'analyse de données à caractère personnel, le consentement de l'utilisateur est nécessairement demandé.</p>
-            <p>Ce consentement de l'Utilisateur est considéré comme valide pour une durée de 13 (treize) mois maximum. À l'issue de cette période, le site demandera à nouveau l'autorisation de l'utilisateur pour enregistrer des fichiers "cookies" sur son disque dur.</p>
-            <p>a. Opposition de l'utilisateur à l'utilisation de fichiers "cookies" par le site</p>
-            <p>Il est porté à la connaissance de l'Utilisateur qu'il peut s'opposer à l'enregistrement de ces "cookies" en configurant son logiciel de navigation.</p>
-            <p>Dans le cas où l'utilisateur décide de désactiver les fichiers "cookies", il pourra poursuivre sa navigation sur le site. Toutefois, tout dysfonctionnement du site provoqué par cette manipulation ne pourrait être considéré comme étant du fait de l'Editeur du site.</p>
-            <p>b. Description des fichiers "cookies" utilisés par le site</p>
-            <p>L'Editeur du site attire l'attention de l'Utilisateur sur le fait que les cookies suivants sont utilisés lors de sa navigation :</p>
+            <p class="paragraphe">Le responsable du traitement conservera dans ses systèmes informatiques du site et dans des conditions raisonnables de sécurité l'ensemble des données collectées pour une durée de&nbsp;:&nbsp;3 ans.</p>
+            <p class="paragraphe">La collecte et le traitement des données répondent aux finalités suivantes : Réalisation de statistiques de la mesure d'audience et d'études marketing</p>
+            <p class="paragraphe"><b>B. Hébergement des données</b></p>
+            <p class="paragraphe">Tel que mentionné plus haut, le site Nolark est hébergé par&nbsp;:&nbsp;OVH SAS, dont le siège est situé à l'adresse suivante&nbsp;: 2 rue Kellermann - BP 80157, 59100 Roubaix.</p>
+            <p class="paragraphe">L'hébergeur peut être contacté au numéro de téléphone suivant&nbsp;:&nbsp;0320200958</p>
+            <p class="paragraphe">Les données collectées et traitées par le site sont exclusivement hébergées et traitées en France.</p>
+            <p class="paragraphe"><b>C. Le responsable du traitement des données</b></p>
+            <p class="paragraphe">La responsable du traitement des données à caractère personnel est&nbsp;:&nbsp;Amélia PILOU. Elle peut être contactée par téléphone au 01.02.03.04.05, de 8h à 19h, du lundi au vendredi.</p>
+            <p class="paragraphe"><b>D. Le délégué à la proctection des données</b></p>
+            <p class="paragraphe">La personne suivante a été nommée Déléguée à la Protection des Données&nbsp;:&nbsp;Amélia PILOU.</p>
+            <p class="paragraphe">La déléguée à la protection des données peut être joint par téléphone au 06.80.80.80.90, du lundi au vendredi de 9h à 17h ou par mail&nbsp;:&nbsp;dpo@nolark.gil83.fr.</p>
+            <p class="paragraphe"><b>E. Données personnelles des personnes mineures</b></p>
+            <p class="paragraphe">Conformément aux dispositions de l'article 8 du règlement européen 2016/679 et à la loi Informatique et Libertés, seuls les mineurs âgés de 15 ans ou plus peuvent consentir au traitement de leurs données personnelles.</p>
+            <p class="paragraphe">Si l'utilisateur est un mineur de moins de 15 ans, l'accord d'un représentant légal sera requis afin que des données à caractère personnel puissent être collectées et traitées.</p>
+            <p class="paragraphe"><b>F. Droits de l'utilisateur et procédures de mise en oeuvre des droits de l'utilisateur</b></p>
+            <p class="paragraphe">Conformément à la réglementation concernant le traitement des données à caractère personnel, l'Utilisateur possède les droits ci-après énumérés.</p>
+            <p class="paragraphe">Afin que le responsable du traitement des données fasse droit à sa demande, l'utilisateur est tenu de lui communiquer&nbsp;:&nbsp;ses prénom et nom ainsi que son adresse e-mail, et si cela est pertinent, son numéro de compte ou d'espace personnel ou d'abonné.</p>
+            <p class="paragraphe">Le responsable du traitement des données est tenu de répondre à l'Utilisateur dans un délai de 30 (trente) jours maximum.</p>
+            <p class="paragraphe"><b class="sousRubrique">a. Droit d'accès, de rectification et droit à l'oubli</b></p>
+            <p class="paragraphe">L'utilisateur peut prendre connaissance, mettre à jour, modifier ou demander la suppression des données le concernant, en respectant la procédure ci-après énoncée :</p>
+            <p class="paragraphe">procédure que l'utilisateur doit respecter pour solliciter la mise à sa disposition, la mise à jour, la modification ou la suppression de ses données personnelles collectées par le site</p>
+            <p class="paragraphe">Ex: L'utilisateur doit envoyer un e-mail au responsable du traitement des données personnelles, en précisant sa demande et en utilisant l'adresse e-mail fournie...</p>
+            <p class="paragraphe">S'il en possède un, l'utilisateur a le droit de demander la suppression de son espace personnel en suivant la procédure suivante :</p>
+            <p class="paragraphe">procédure que l'utilisateur doit suivre pour demander la suppression de son espace personnel</p>
+            <p class="paragraphe">Ex: L'utilisateur doit envoyer un e-mail au responsable du traitement des données, en précisant son numéro d'espace personnel. La demande sera traitée dans un délai de 10 jours.</p>
+            <p class="paragraphe"><b class="sousRubrique">b. Droit à la portabilité des données</b></p>
+            <p class="paragraphe">L'Utilisateur a le droit de demander la portabilité de ses données personnelles, détenues par le site, vers un autre site, en se conformant à la procédure ci-après :</p>
+            <p class="paragraphe">procédure doit respecter l'utilisateur afin de faire une demande de portabilité de ses données personnelles vers un autre site ou service</p>
+            <p class="paragraphe">Ex: L'utilisateur doit faire une demande de portabilité de ses données personnelles auprès du responsable du traitement des données, en envoyant un e-mail à l'adresse prévue ci-dessus.</p>
+            <p class="paragraphe">c. Droit à la limitation et à l'opposition du traitement des données</p>
+            < class="paragraphe"p>Enfin, l'Utilisateur a le droit de demander la limitation ou de s'opposer au traitement de ses données par le site, sans que le site ne puisse refuser, sauf à démontrer l'existence de motifs légitimes et impérieux, pouvant prévaloir sur les intérêts et les droits et libertés de l'Utilisateur.</p>
+            <p class="paragraphe">d. Droit de déterminer le sort des données après la mort</p>
+            <p class="paragraphe">Il est rappelé à l'utilisateur qu'il peut organiser quel doit être le devenir de ses données collectées et traitées s'il décède, conformément à la loi n°2016-1321 du 7 octobre 2016.</p>
+            <p class="paragraphe">e. Droit de saisir l'autorité de contrôle compétente</p>
+            <p class="paragraphe">Dans le cas où le responsable du traitement des données décide de ne pas répondre à la demande de l'Utilisateur, et que l'Utilisateur souhaite contester cette décision, il est en droit de saisir la CNIL (Commission Nationale de l'Informatique et des Libertés, https://www.cnil.fr) ou tout juge compétent.</p>
+            <p class="paragraphe"><b>G. Obligations du responsable du traitement des données</b></p>
+            <p class="paragraphe">Le responsable du traitement s'engage à protéger les données à caractère personnel collectées, à ne pas les transmettre à des tiers sans que l'utilisateur n'en ait été informé et à respecter les finalités pour lesquelles ces données ont été collectées.</p>
+            <p class="paragraphe">Le site dispose d'un certificat SSL afin de garantir que les informations et le transfert des données transitant par le site sont sécurisés.</p>
+            <p class="paragraphe">De plus, le responsable du traitement des données s'engage à notifier l'utilisateur en cas de rectification ou de suppression des données, à moins que cela n'entraîne pour lui des formalités, coûts et démarches disproportionnés.</p>
+            <p class="paragraphe">Dans le cas où l'intégrité, la confidentialité ou la sécurité des données à caractère personnel de l'Utilisateur est compromise, le responsable du traitement s'engage à informer l'Utilisateur par tout moyen.</p>
+            <p class="paragraphe"><b>H. Cookies</b></p>
+            <p class="paragraphe">Le site a éventuellement recours aux techniques de "cookies" lui permettant de traiter des statistiques et des informations sur le trafic, de faciliter la navigation et d'améliorer le service pour le confort de l'utilisateur. Pour l'utilisation de fichiers "cookies" impliquant la sauvegarde et l'analyse de données à caractère personnel, le consentement de l'utilisateur est nécessairement demandé.</p>
+            <p class="paragraphe">Ce consentement de l'Utilisateur est considéré comme valide pour une durée de 13 (treize) mois maximum. À l'issue de cette période, le site demandera à nouveau l'autorisation de l'utilisateur pour enregistrer des fichiers "cookies" sur son disque dur.</p>
+            <p class="paragraphe">a. Opposition de l'utilisateur à l'utilisation de fichiers "cookies" par le site</p>
+            <p class="paragraphe">Il est porté à la connaissance de l'Utilisateur qu'il peut s'opposer à l'enregistrement de ces "cookies" en configurant son logiciel de navigation.</p>
+            <p class="paragraphe">Dans le cas où l'utilisateur décide de désactiver les fichiers "cookies", il pourra poursuivre sa navigation sur le site. Toutefois, tout dysfonctionnement du site provoqué par cette manipulation ne pourrait être considéré comme étant du fait de l'Editeur du site.</p>
+            <p class="paragraphe">b. Description des fichiers "cookies" utilisés par le site</p>
+            <p class="paragraphe">L'Editeur du site attire l'attention de l'Utilisateur sur le fait que les cookies suivants sont utilisés lors de sa navigation :</p>
             <table>
                 <tbody>
                     <tr>

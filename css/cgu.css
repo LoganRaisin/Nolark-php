@@ -27,6 +27,7 @@ p:not(footer) {
 li{
     margin-left: 80px
 }
+
 .paragraphe{
     margin-left: 45px;
 }
@@ -54,4 +55,7 @@ table th {
     text-align: center;
     font-size: x-large;
     margin-top: 25px;
+}
+.sousRubrique{
+    font-size: small;
 }
