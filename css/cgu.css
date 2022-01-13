@@ -21,6 +21,9 @@ p:not(footer) {
     text-align: center;
     font-weight: bold;
 }
+.sousTitre{
+    margin:30px 0px 25px 25px;
+}
 
 table {
     width: 100%;
