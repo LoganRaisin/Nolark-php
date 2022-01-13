@@ -46,7 +46,7 @@ th, tr, td {
 
 table th {
     color: white;
-    border-color: white;
+    border-color: orange;
     background-color: var(--maCouleurDominante);
 }
 
