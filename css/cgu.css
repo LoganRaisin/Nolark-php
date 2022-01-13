@@ -59,3 +59,8 @@ table th {
 .sousRubrique{
     font-size: small;
 }
+.horizontal { 
+border-left: 4px solid black; 
+height: 200px; 
+display: flex;
+flex-direction: row
